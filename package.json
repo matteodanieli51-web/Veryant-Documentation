@@ -1,0 +1,30 @@
+{
+  "name": "docs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "clean": "rimraf .vitepress/cache dist",
+    "build": "npm run clean && vitepress build && node upload-algolia.mjs",
+    "preview": "vitepress preview",
+    "dev": "vitepress dev docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/markdown-it-footnote": "^3.0.4",
+    "rimraf": "^6.1.3",
+    "vitepress": "latest"
+  },
+  "dependencies": {
+    "@orama/plugin-vitepress": "^3.1.18",
+    "algoliasearch": "^5.50.2",
+    "dotenv": "^17.4.2",
+    "globby": "^16.2.0",
+    "html-to-text": "^9.0.5",
+    "markdown-it-footnote": "^4.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+﻿## Java 21 support
+
+isCOBOL Evolve and isCOBOL SDK 2024R1 are certified for Java 21, the current Java LTS (Long Term Support) release. It is important to have isCOBOL Evolve 2024R1 qualified to be used in the latest LTS version of Java because LTS applies the tenets of reliability engineering to the software development process and software release life cycle. Long-term support extends the period of software maintenance; it also alters the type and frequency of software updates (patches) to reduce the risk, expense, and disruption of software deployment, while promoting the dependability of the software.
+
+We at Veryant feel it’s important to test and qualify our products for Java LTS releases, and our internal tests are now performed on all 4 Java LTS versions: 1.8, 11, 17 and 21 to ensure the correct execution on each. Our users can then decide if and when to upgrade to a specific Java version, depending on their needs. Typically, COBOL programs function seamlessly across various Java versions. However, if these programs require interaction with third-party Java classes or libraries, it may become essential to utilize a specific version of the Java runtime. Having our products certified for any Java LTS version ensures that our users can move freely to the best available option.
+
+One of the changes related to supporting Java 21 is the default file encoding, which is now UTF-8 on Windows platforms. If a COBOL application needs to support a different file encoding, it can be forced using the flag -Dfile.encoding startup option.
