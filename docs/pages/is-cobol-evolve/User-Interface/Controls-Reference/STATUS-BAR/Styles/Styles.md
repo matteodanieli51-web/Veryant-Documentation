@@ -1,0 +1,3 @@
+﻿## Styles
+
+The following styles are applicable to the STATUS-BAR control: [Background-High](./Background-High-Background-Low-Background-Standard), [Background-Low](./Background-High-Background-Low-Background-Standard), [Background-Standard](./Background-High-Background-Low-Background-Standard), [Bold](./Bold-High-Highlight-Low-Lowlight-Standard), [Grip](./Grip), [High](./Bold-High-Highlight-Low-Lowlight-Standard), [Highlight](./Bold-High-Highlight-Low-Lowlight-Standard), [Low](./Bold-High-Highlight-Low-Lowlight-Standard), [Lowlight](./Bold-High-Highlight-Low-Lowlight-Standard), [No-Tab](./No-Tab), [Notify-Mouse](./Notify-Mouse), [Permanent](./Permanent-Temporary), [Standard](./Bold-High-Highlight-Low-Lowlight-Standard), [Temporary](./Permanent-Temporary).

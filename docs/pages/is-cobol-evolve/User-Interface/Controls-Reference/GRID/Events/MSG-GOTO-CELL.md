@@ -1,0 +1,3 @@
+﻿## MSG-GOTO-CELL
+
+This event is fired when the user moves the cursor from a grid cell to another one using the keyboard keys. The EVENT-DATA-1 and EVENT-DATA-2 data items contain the column and row number (respectively) of the new cell, as well as the [X](../Properties/X) and [Y](../Properties/Y) properties. The [Cursor-X](../Properties/Cursor-X) and [Cursor-Y](../Properties/Cursor-Y) properties contain the coordinates of the cell the user has moved from. Setting EVENT-ACTION to EVENT-ACTION-FAIL will keep the cursor on the current cell instead on moving on the cell selected by the user. After it, you can move the cursor to a different cell by modifying the [Cursor-X](../Properties/Cursor-X) and [Cursor-Y](../Properties/Cursor-Y) properties.

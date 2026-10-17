@@ -1,0 +1,3 @@
+﻿## MSG-BEGIN-DRAG
+
+This event is fired when the user holds the left mouse button down and drags the mouse pointer in a Grid control. The EVENT-DATA-1 and EVENT-DATA-2 data items contain the column and the row number (respectively) of the cell where the dragging started. While dragging the [X](../Properties/X), [Y](../Properties/Y), [Start-X](../Properties/Start-X) and [Start-Y](../Properties/Start-Y) properties contain the same values as EVENT-DATA-1 and EVENT-DATA-2. This event is not fired if the user drags header cells. For this purpose see the [MSG-BEGIN-HEADING-DRAG](./MSG-BEGIN-HEADING-DRAG) event.

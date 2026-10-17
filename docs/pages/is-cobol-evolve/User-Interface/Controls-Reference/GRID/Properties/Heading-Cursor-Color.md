@@ -1,0 +1,29 @@
+﻿## Heading-Cursor-Color
+
+This property allows you to set or retrieve the color of both column and row headings where the cursor is positioned. Foreground and background color values are combined and therefore RGB colors are not supported. See "[Color management](../../../Working-With-UI-and-Controls/Creating-a-control/Color-management/Color-management)" for further details.
+
+This color is always visible, even when the Grid doesn’t have the focus.
+
+**Example** - Define a grid with heading color on the current selection
+
+```cobol
+screen section.
+...
+  03 screen-1-gr-1 Grid
+     line 5.7
+     column 3.1
+     size 34.6 cells
+     lines 15.5 cells
+     id 1
+     event procedure screen-1-gr-1-evt-proc
+     no-box
+     column-headings
+     row-dividers 1
+     end-color 9
+     heading-cursor-color 200
+     heading-font Default-Font
+     cursor-frame-width 3
+     num-rows 5
+     .
+...
+```

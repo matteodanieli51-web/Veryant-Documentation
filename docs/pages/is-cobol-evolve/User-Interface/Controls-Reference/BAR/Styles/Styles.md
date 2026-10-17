@@ -1,0 +1,3 @@
+﻿## Styles
+
+The following styles are applicable to the BAR control: [Bold](./Bold-High-Highlight-Low-Lowlight-Standard), [Dashed](./Dotted-Dashed-Dot-Dash), [Dot-Dash](./Dotted-Dashed-Dot-Dash), [Dotted](./Dotted-Dashed-Dot-Dash), [Height-In-Cells](./Height-In-Cells), [High](./Bold-High-Highlight-Low-Lowlight-Standard), [Highlight](./Bold-High-Highlight-Low-Lowlight-Standard), [Low](./Bold-High-Highlight-Low-Lowlight-Standard), [Lowlight](./Bold-High-Highlight-Low-Lowlight-Standard), [No-Tab](./No-Tab), [Notify-Mouse](./Notify-Mouse), [Permanent](./Permanent-Temporary), [Standard](./Bold-High-Highlight-Low-Lowlight-Standard), [Temporary](./Permanent-Temporary), [Width-In-Cells](./Width-In-Cells).

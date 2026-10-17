@@ -1,0 +1,20 @@
+﻿## iscoblib.def
+
+```cobol
+*>********************************************************************<*
+*>***** Copyright (c) 2005 - 2026 Veryant. Users of isCOBOL      *****<*
+*>***** may freely modify and redistribute this program.         *****<*
+*>********************************************************************<*
+
+*>***** This copybook is useful for compatibility with
+*>***** isCOBOL versions prior 2009.
+
+       >>SOURCE FORMAT FREE
+
+copy "isreg.def".
+copy "iswinvers.def".
+copy "iswinhelp.def".
+copy "issocket.def".
+
+       >>SOURCE FORMAT PREVIOUS
+```

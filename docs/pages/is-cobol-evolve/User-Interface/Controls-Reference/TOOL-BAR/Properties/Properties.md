@@ -1,0 +1,3 @@
+﻿## Properties
+
+The following properties are applicable to the TOOL-BAR control: [Background-Bitmap-Handle](./Background-Bitmap-Handle), [Background-Bitmap-Scale](./Background-Bitmap-Scale), [Background-Color](./Background-Color), [Cell Height](./Cell-Height), [Cell Size](./Cell-Size), [Cell Width](./Cell-Width), [Color](./Color), [Control Font](./Control-Font), [Css-Base-Style-Name](./Css-Base-Style-Name), [Css-Style-Name](./Css-Style-Name), [Custom-Data](./Custom-Data), [Foreground-Color](./Foreground-Color), [Gradient-Color-1](./Gradient-Color-1), [Gradient-Color-2](./Gradient-Color-2), [Gradient-Orientation](./Gradient-Orientation), [Help-Id](./Help-Id), [Hint](./Hint), [Id](./Id), [Layout-Manager](./Layout-Manager), [Lines](./Lines), [Pop-Up Menu](./Pop-Up-Menu).

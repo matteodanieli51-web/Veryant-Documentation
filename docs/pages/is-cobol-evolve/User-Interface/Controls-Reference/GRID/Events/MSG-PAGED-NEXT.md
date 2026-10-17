@@ -1,0 +1,3 @@
+﻿## MSG-PAGED-NEXT
+
+This event is fired when the user presses the "Next Record" button in a paged grid. The expected response from the runtime is to supply the next record after the end of the grid's current data. To do this, add a new record at the end of the grid (using [Record-To-Add](../Properties/Record-To-Add)). If the data is from an indexed file, the value of EVENT-DATA-2 is the number of READ NEXTs you need to perform to get to the appropriate record. This value is controlled by the [File-Pos](../Properties/File-Pos) property. If you cannot supply the next record (i.e. because you have reached the end of the file), respond by setting EVENT-ACTION to EVENT-ACTION-FAIL.

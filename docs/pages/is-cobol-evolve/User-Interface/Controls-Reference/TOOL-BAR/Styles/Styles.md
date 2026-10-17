@@ -1,0 +1,3 @@
+﻿## Styles
+
+The following styles are applicable to the TOOL-BAR control: [Background-High](./Background-High-Background-Low-Background-Standard), [Background-Low](./Background-High-Background-Low-Background-Standard), [Background-Standard](./Background-High-Background-Low-Background-Standard), [Bold](./Bold-High-Highlight-Low-Lowlight-Standard), [High](./Bold-High-Highlight-Low-Lowlight-Standard), [Highlight](./Bold-High-Highlight-Low-Lowlight-Standard), [Laf-Colors](./Laf-Colors),  [Low](./Bold-High-Highlight-Low-Lowlight-Standard), [Lowlight,](./Bold-High-Highlight-Low-Lowlight-Standard)[Moveable](./Moveable), [Multiline](./Multiline), [Standard](./Bold-High-Highlight-Low-Lowlight-Standard).
