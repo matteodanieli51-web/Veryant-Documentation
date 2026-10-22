@@ -1,0 +1,15 @@
+﻿## isfonts.def
+
+```cobol
+*>********************************************************************<*
+*>***** Copyright (c) 2005 - 2026 Veryant. Users of isCOBOL      *****<*
+*>***** may freely modify and redistribute this program.         *****<*
+*>********************************************************************<*
+
+       >>SOURCE FORMAT FREE
+
+copy "fonts.def".
+copy "stdfonts.def".
+
+       >>SOURCE FORMAT PREVIOUS
+```

@@ -1,0 +1,984 @@
+﻿Tipo;File;Testo;Nuovo link
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-C/Calling-C/Calling-C-Language-Functions-from-isCOBOL/static-method.md;\-cp;../../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#cp
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-C/Calling-C/Calling-C-Language-Functions-from-isCOBOL/static-method.md;\-cp;../../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#cp
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-C/Calling-C/framework-properties.md;Configuration;../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-JAVA/Calling-isCOBOL-from-JAVA/EasyLinkage-feature/usage1.md;Properties for the EasyLinkage feature;../../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#properties-for-the-easylinkage-feature
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-JAVA/Calling-isCOBOL-from-JAVA/EasyLinkage-feature/usage1.md;SET Directive;../../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/SET-Directive
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-JAVA/Calling-isCOBOL-from-JAVA/EasyLinkage-feature/usage1.md;iscobol.compiler.generate.root_dir;../../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-JAVA/Calling-isCOBOL-from-JAVA/EasyLinkage-feature/usage2.md;Properties for the EasyLinkage feature;../../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#properties-for-the-easylinkage-feature
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-JAVA/Calling-isCOBOL-from-JAVA/EasyLinkage-feature/usage2.md;SET Directive;../../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/SET-Directive
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-JAVA/Calling-isCOBOL-from-JAVA/EasyLinkage-feature/usage2.md;iscobol.compiler.generate.root_dir;../../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-JAVA/calling-java.md;CALL;../../is-cobol-evolve/Language-Reference/Procedure-Division-Statements/CALL
+link vuoto/errato;pages/interoperating-with-is-cobol/isCOBOL-JAVA/calling-java.md;INVOKE;../../is-cobol-evolve/Language-Reference/Procedure-Division-Statements/INVOKE
+link vuoto/errato;pages/is-cobol-AS/Hook-program.md;A$GETTHREAD;../is-cobol-evolve/Appendices/Library-Routines/A$GETTHREAD
+link vuoto/errato;pages/is-cobol-AS/Tuning-and-monitoring-isCOBOL-Server-with-VisualVM.md;Tuning and monitoring the Java Virtual Machine with VisualVM;../is-cobol-evolve/Appendices/Troubleshooting/Tuning-and-monitoring-the-Java-Virtual-Machine-with-VisualVM/Tuning-and-monitoring-the-Java-Virtual-Machine-with-VisualVM
+link vuoto/errato;pages/is-cobol-AS/isCOBOL-File-Server/Stored-Procedures.md;StoreProcedure Class (com.iscobol.lib.StoreProcedure);../../is-cobol-evolve/Appendices/Internal-Objects/StoreProcedure-Class/StoreProcedure-Class
+link vuoto/errato;pages/is-cobol-IDE/Reports/How-to-print-Reports.md;SpoolPrinter Class (com.iscobol.rts.print.SpoolPrinter) and the Print Preview;../../is-cobol-evolve/Appendices/Internal-Objects/SpoolPrinter-Class-and-the-Print-Preview
+link vuoto/errato;pages/is-cobol-IDE/Reports/How-to-print-Reports.md;com.iscobol.rts.print.SpoolPrinter class;../../is-cobol-evolve/Appendices/Internal-Objects/SpoolPrinter-Class-and-the-Print-Preview
+immagine (maiuscole);pages/is-cobol-IDE/Screen-Programs/Screen-Designer-Reference/ENTRY-FIELD.md;img;../../images/IDE-borderwidth.png
+immagine (maiuscole);pages/is-cobol-IDE/The-isCOBOL-IDE-Perspective/Error-Log.md;img;../images/Error.png
+immagine (maiuscole);pages/is-cobol-IDE/Working-With-Projects/Generating-DatabaseBridge-subroutines/Generating-DatabaseBridge-subroutines-using-the-Compiler-integration.md;img;../../images/edbiis-setting.png
+immagine (maiuscole);pages/is-cobol-IDE/Working-With-Projects/Import-Export-Project-Properties.md;img;../images/ExpProps2.png
+link vuoto/errato;pages/is-cobol-NoSQL-Bridge/Functions/Functions.md;WHEN Directive;../../is-cobol-evolve/Language-Reference/EFD-Directives/WHEN-Directive
+link vuoto/errato;pages/is-cobol-NoSQL-Bridge/Functions/Functions.md;HIDDEN Directive;../../is-cobol-evolve/Language-Reference/EFD-Directives/HIDDEN-Directive
+link vuoto/errato;pages/is-cobol-NoSQL-Bridge/Functions/Functions.md;DATE Directive;../../is-cobol-evolve/Language-Reference/EFD-Directives/DATE-Directive
+link vuoto/errato;pages/is-cobol-UDBC/ODBC-Driver-for-isCOBOL-File-Server/configure-DSN_2.md;iscobol.file.index.data_suffix \*;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#file-handling-configuration
+link vuoto/errato;pages/is-cobol-UDBC/ODBC-Driver-for-isCOBOL-File-Server/file-server-startup.md;isCOBOL File Server usage;../../is-cobol-AS/isCOBOL-File-Server/isCOBOL-File-Server-usage
+link vuoto/errato;pages/is-cobol-UDBC/isCOBOL-UDBC/Getting-Started/download-UDBC.md;Microsoft Standard Installer Command-Line Options;https://learn.microsoft.com/en-us/windows/win32/msi/standard-installer-command-line-options
+immagine (maiuscole);pages/is-cobol-UDBC/isCOBOL-UDBC/Getting-Started/download-UDBC.md;img;images/winsetup_jdk.png
+link vuoto/errato;pages/is-cobol-UDBC/isCOBOL-UDBC/db-configuration.md;UDBC Configuration Tool;./db-configuration#udbc-configuration-tool
+link vuoto/errato;pages/is-cobol-UDBC/isCOBOL-UDBC/iscobol-udbc.md;isCOBOL File Server;../../is-cobol-AS/isCOBOL-File-Server/isCOBOL-File-Server
+link vuoto/errato;pages/is-cobol-UDBC/isCOBOL-UDBC/iscobol-udbc.md;\-efd;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#external-file-options
+link vuoto/errato;pages/is-cobol-db-bridge/Differences-between-DatabaseBridge-and-ISAM.md;Internal lock management;../is-cobol-AS/Internal-lock-management
+link vuoto/errato;pages/is-cobol-db-bridge/Differences-between-DatabaseBridge-and-ISAM.md;iscobol.file.index.lock_read_anyhow (boolean) \*;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#file-handling-configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Differences-between-DatabaseBridge-and-ISAM.md;Internal lock management;../is-cobol-AS/Internal-lock-management
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-DB2-400.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-DB2-400.md;-cc;../DatabaseBridge-generator-edbiis#cc
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-DB2-RDBMS.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-DB2-RDBMS.md;-cc;../DatabaseBridge-generator-edbiis#cc
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-DBMaker.md;-cc;../DatabaseBridge-generator-edbiis#cc
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-Informix.md;-cc;../DatabaseBridge-generator-edbiis#cc
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-Microsoft-SQL-Server.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-Microsoft-SQL-Server.md;-cc;../DatabaseBridge-generator-edbiis#cc
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-Microsoft-SQL-Server.md;Internal lock management;../../is-cobol-AS/Internal-lock-management
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-MySQL-and-MariaDB.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-MySQL-and-MariaDB.md;-cc;../DatabaseBridge-generator-edbiis#cc
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-MySQL-and-MariaDB.md;Internal lock management;../../is-cobol-AS/Internal-lock-management
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-ORACLE-RDBMS.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-ORACLE-RDBMS.md;-cc;../DatabaseBridge-generator-edbiis#cc
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-PostgreSQL.md;\-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Routines-for-PostgreSQL.md;-cc;../DatabaseBridge-generator-edbiis#cc
+link vuoto/errato;pages/is-cobol-db-bridge/EDBI-Routines/EDBI-Standard-Routines.md;-sysc;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#sysc
+link vuoto/errato;pages/is-cobol-db-bridge/EFD-Directives/Default-Rules.md;WHEN Directive;../../is-cobol-evolve/Language-Reference/EFD-Directives/WHEN-Directive
+link vuoto/errato;pages/is-cobol-db-bridge/EFD-Directives/Default-Rules.md;NAME Directive;../../is-cobol-evolve/Language-Reference/EFD-Directives/NAME-Directive
+link vuoto/errato;pages/is-cobol-db-bridge/EFD-Directives/Default-Rules.md;USE GROUP Directive;../../is-cobol-evolve/Language-Reference/EFD-Directives/USE-GROUP-Directive
+link vuoto/errato;pages/is-cobol-db-bridge/EFD-Directives/EFD-Directives.md;-efd;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#external-file-options
+link vuoto/errato;pages/is-cobol-db-bridge/Extending-EDBI-routines-through-entry-points.md;iscobol.compiler.easydb.entry_points (boolean);../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#databasebridge-easydb-configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Invalid-Data.md;MOVE;../is-cobol-evolve/Language-Reference/Procedure-Division-Statements/MOVE
+link vuoto/errato;pages/is-cobol-db-bridge/Invalid-Data.md;DATE Directive;../is-cobol-evolve/Language-Reference/EFD-Directives/DATE-Directive
+link vuoto/errato;pages/is-cobol-db-bridge/Invalid-Data.md;iscobol.easydb.min_date;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#databasebridge-easydb-runtime-configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Invalid-Data.md;DATE Directive;../is-cobol-evolve/Language-Reference/EFD-Directives/DATE-Directive
+link vuoto/errato;pages/is-cobol-db-bridge/Invalid-Data.md;iscobol.easydb.max_date;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#databasebridge-easydb-runtime-configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Invalid-Data.md;DATE Directive;../is-cobol-evolve/Language-Reference/EFD-Directives/DATE-Directive
+link vuoto/errato;pages/is-cobol-db-bridge/Invalid-Data.md;iscobol.easydb.inv_date;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#databasebridge-easydb-runtime-configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Managing-multi-record-files.md;WHEN Directive;../is-cobol-evolve/Language-Reference/EFD-Directives/WHEN-Directive
+link vuoto/errato;pages/is-cobol-db-bridge/Managing-relative-and-sequential-files-on-the-database.md;iscobol.jdbc.driver;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_driver
+link vuoto/errato;pages/is-cobol-db-bridge/Managing-relative-and-sequential-files-on-the-database.md;iscobol.jdbc.url;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_url
+link vuoto/errato;pages/is-cobol-db-bridge/Mixing-DatabaseBridge-and-ESQL.md;OPEN;../is-cobol-evolve/Language-Reference/Procedure-Division-Statements/OPEN
+link vuoto/errato;pages/is-cobol-db-bridge/Mixing-DatabaseBridge-and-ESQL.md;CONNECT;../is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/CONNECT
+link vuoto/errato;pages/is-cobol-db-bridge/Mixing-DatabaseBridge-and-ESQL.md;Working on multiple connection simultaneously;../is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/Working-on-multiple-connection-simultaneously
+link vuoto/errato;pages/is-cobol-db-bridge/Mixing-DatabaseBridge-and-ESQL.md;CONNECT;../is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/CONNECT
+link vuoto/errato;pages/is-cobol-db-bridge/Mixing-DatabaseBridge-and-ESQL.md;CONNECT;../is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/CONNECT
+link vuoto/errato;pages/is-cobol-db-bridge/Mixing-DatabaseBridge-and-ESQL.md;iscobol.easydb.connection_name.FileName;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#databasebridge-easydb-runtime-configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Runtime-Options-and-Configuration/Configuration-properties.md;DatabaseBridge (EasyDB) Runtime Configuration;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#databasebridge-easydb-runtime-configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Runtime-Options-and-Configuration/Configuration-properties.md;Configuration;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Runtime-Options-and-Configuration/The-EDBI-WHERE-CONSTRAINT-external-variable.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/is-cobol-db-bridge/Runtime-Options-and-Configuration/The-EDBI-WHERE-CONSTRAINT-external-variable.md;iscobol.compiler.easydb (boolean);../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler_easydb
+link vuoto/errato;pages/is-cobol-db-bridge/Runtime-Options-and-Configuration/iscobol.easydb.limit_dropdown.md;iscobol.easydb.limit_dropdown;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#easydb_limit_dropdown
+link vuoto/errato;pages/is-cobol-db-bridge/Transactions.md;iscobol.jdbc.autocommit (boolean);../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_autocommit
+link vuoto/errato;pages/is-cobol-db-bridge/Transactions.md;iscobol.easydb.commit_count;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#easydb_commit_count
+link vuoto/errato;pages/is-cobol-db-bridge/Troubleshooting.md;iscobol.tracelevel;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#tracelevel
+link vuoto/errato;pages/is-cobol-db-bridge/Using-EFD-directives.md;EFD Directives;./EFD-Directives/EFD-Directives
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-DatabaseBridge/Configuring-CLASSPATH-and-code_prefix.md;iscobol.code_prefix;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#code_prefix
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-DatabaseBridge/Generating-EDBI-users-routines/EDBI-Generation-at-compile-time.md;DatabaseBridge (EasyDB) Configuration;../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#databasebridge-easydb-configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-DatabaseBridge/Generating-EDBI-users-routines/EDBI-Generation-with-EDBIIS.md;iscobol.compiler.efd_field_name_num (boolean);../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler_efd_field_name_num
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-DatabaseBridge/Generating-EDBI-users-routines/Generating.md;DatabaseBridge (EasyDB) Configuration;../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#databasebridge-easydb-configuration
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-DatabaseBridge/Generating-EDBI-users-routines/Generating.md;SET Directive;../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/SET-Directive
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-DatabaseBridge/Setting-the-isCOBOL-environment.md;JDBC;../../is-cobol-evolve/SDK-Users-Guide/Programming-Guides/JDBC/JDBC
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-multiple-connections.md;iscobol.jdbc.driver;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_driver
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-multiple-connections.md;iscobol.jdbc.url;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_url
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-multiple-connections.md;iscobol.jdbc.driver;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_driver
+link vuoto/errato;pages/is-cobol-db-bridge/Working-with-multiple-connections.md;iscobol.jdbc.url;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_url
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;C$MONITOR;../Library-Routines/C$MONITOR/C$MONITOR
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;C$LIST_DIRECTORY;../Library-Routines/C$LIST_DIRECTORY/C$LIST_DIRECTORY
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;C$REGEXP;../Library-Routines/C$REGEXP/C$REGEXP
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;EDBI_DISCONNECT;../Library-Routines/EDBI_DISCONNECT/EDBI_DISCONNECT
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;ESQL$BLOB;../Library-Routines/ESQL$BLOB/ESQL$BLOB
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;WD2$CLIENT_INFO;../Library-Routines/WD2$CLIENT_INFO/WD2$CLIENT_INFO
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;C$DESKTOP;../Library-Routines/C$DESKTOP/C$DESKTOP
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;W$MOUSE;../Library-Routines/W$MOUSE/W$MOUSE
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;C$PARSEEFD;../Library-Routines/C$PARSEEFD/C$PARSEEFD
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_CLOSE_KEY;../Library-Routines/REG-Routines/REG_CLOSE_KEY
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_CREATE_KEY;../Library-Routines/REG-Routines/REG_CREATE_KEY
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_CREATE_KEY_EX;../Library-Routines/REG-Routines/REG_CREATE_KEY_EX
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_DELETE_KEY;../Library-Routines/REG-Routines/REG_DELETE_KEY
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_DELETE_VALUE;../Library-Routines/REG-Routines/REG_DELETE_VALUE
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_ENUM_KEY;../Library-Routines/REG-Routines/REG_ENUM_KEY
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_ENUM_VALUE;../Library-Routines/REG-Routines/REG_ENUM_VALUE
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_OPEN_KEY;../Library-Routines/REG-Routines/REG_OPEN_KEY
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_OPEN_KEY_EX;../Library-Routines/REG-Routines/REG_OPEN_KEY_EX
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_QUERY_VALUE;../Library-Routines/REG-Routines/REG_QUERY_VALUE
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_QUERY_VALUE_EX;../Library-Routines/REG-Routines/REG_QUERY_VALUE_EX
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_SET_VALUE;../Library-Routines/REG-Routines/REG_SET_VALUE
+link vuoto/errato;pages/is-cobol-evolve/Appendices/Copybooks/Copybooks.md;REG_SET_VALUE_EX;../Library-Routines/REG-Routines/REG_SET_VALUE_EX
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Basics/isCOBOL-Java/Class-loading.md;iscobol.code_prefix;../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#code_prefix
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Basics/isCOBOL-Java/Class-loading.md;iscobol.code_prefix;../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#code_prefix
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Basics/isCOBOL-Java/Class-loading.md;iscobol.code_prefix;../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#code_prefix
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Basics/isCOBOL-Java/Class-loading.md;iscobol.code_prefix;../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#code_prefix
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Basics/isCOBOL-Java/Class-loading.md;iscobol.code_prefix.reload *;../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#general-runtime-configuration
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Basics/isCOBOL-Java/Class-loading.md;CANCEL;../../../Language-Reference/Procedure-Division-Statements/CANCEL
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Basics/isCOBOL-Java/Class-loading.md;iscobol.code_prefix.reload *;../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#general-runtime-configuration
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Basics/isCOBOL-Java/Class-loading.md;C$UNLOAD;../../../Appendices/Library-Routines/C$UNLOAD
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Introduction-isCOBOL-Evolve/installation-upgrade-license.md;Licenses Configuration;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#licenses-configuration
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Introduction-isCOBOL-Evolve/limits-ranges.md;-big;../../SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#big
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Introduction-isCOBOL-Evolve/limits-ranges.md;-sns=Statements;../../SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#sns
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Introduction-isCOBOL-Evolve/limits-ranges.md;-Xss 'size';https://docs.oracle.com/en/java/javase/21/docs/specs/man/java.html#extra-options-for-java
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Introduction-isCOBOL-Evolve/limits-ranges.md;Comparison between JISAM and c-treeRTG;../../SDK-Users-Guide/Files-Management/Indexed-Files/Indexed-Files#comparison-between-jisam-and-c-treertg
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/distribuited-environment.md;Remote objects;../../../is-cobol-AS/Remote-objects
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/distribuited-environment.md;C$COPY;../../Appendices/Library-Routines/C$COPY
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;WMENU-ADD-BITMAP;../../Appendices/Library-Routines/W$MENU/WMENU-ADD-BITMAP
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;WMENU-CHANGE-BITMAP;../../Appendices/Library-Routines/W$MENU/WMENU-CHANGE-BITMAP
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;WMENU-DELETE-BITMAP;../../Appendices/Library-Routines/W$MENU/WMENU-DELETE-BITMAP
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;W$CAPTURE;../../Appendices/Library-Routines/W$CAPTURE
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;W$SCALE;../../Appendices/Library-Routines/W$SCALE
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;W$ROTATE*;../../Appendices/Library-Routines/W$ROTATE
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;W$IMAGESIZE;../../Appendices/Library-Routines/W$IMAGESIZE
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;W$CREATEFONT;../../Appendices/Library-Routines/W$CREATEFONT
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;HANDLE-TYPE;../../Appendices/Intrinsic-Functions/HANDLE-TYPE
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;J$NETADDRESS;../../Appendices/Library-Routines/J$NETADDRESS
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;C$ENVMAP;../../Appendices/Library-Routines/C$ENVMAP
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;C$LIST_ENVIRONMENT;../../Appendices/Library-Routines/C$LIST_ENVIRONMENT/C$LIST_ENVIRONMENT
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Special-Features/routines-functions.md;C$UNSET;../../Appendices/Library-Routines/C$UNSET
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Wrappers/wrappers.md;Service configuration;../../SDK-Users-Guide/RemoteCompiler/Windows-service-Unix-daemon/Service-Configuration
+link vuoto/errato;pages/is-cobol-evolve/Introduction/Wrappers/wrappers.md;isCOBOL Evolve: Application Server;../../../is-cobol-AS/Key-Topics
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Data-Division/Data-Description/IS-IDENTIFIED-clause.md;XMLStream Class (com.iscobol.rts.XMLStream);../../../Appendices/Internal-Objects/XMLStream-Class/XMLStream-Class
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Data-Division/Data-Description/IS-IDENTIFIED-clause.md;JSONStream Class (com.iscobol.rts.JSONStream);../../../Appendices/Internal-Objects/JSONStream-Class/JSONStream-Class
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Data-Division/Data-Description/USAGE-clause.md;HANDLE-TYPE;../../../Appendices/Intrinsic-Functions/HANDLE-TYPE
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Data-Division/Data-Names/FUNCTION.md;Intrinsic Functions;../../../Appendices/Intrinsic-Functions/Intrinsic-Functions
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/Host-variables/Mapping-Large-Objects.md;ESQL$BLOB;../../../Appendices/Library-Routines/ESQL$BLOB/ESQL$BLOB
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/Host-variables/SQL-and-COBOL-data-types.md;ESQL$BLOB;../../../Appendices/Library-Routines/ESQL$BLOB/ESQL$BLOB
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/Indicator-Variables.md;265;../../Appendices/Compiler-Errors#errors-informationals-and-warnings
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/SQLDA/Oracle-Pro-COBOL-SQLDA-implementation.md;IWC$GET;../../../Appendices/Library-Routines/IWC$GET
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/SQLDA/Oracle-Pro-COBOL-SQLDA-implementation.md;IWC$GET;../../../Appendices/Library-Routines/IWC$GET
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/SQLDA/Oracle-Pro-COBOL-SQLDA-implementation.md;IWC$GET;../../../Appendices/Library-Routines/IWC$GET
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/CONNECT.md;EsqlRuntime (com.iscobol.rts.EsqlRuntime);../../Appendices/Internal-Objects/EsqlRuntime/EsqlRuntime
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/OPEN.md;EsqlRuntime (com.iscobol.rts.EsqlRuntime);../../Appendices/Internal-Objects/EsqlRuntime/EsqlRuntime
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Source-computer.md;SKIP3 skips three lines before the next line;../../Compiler-Directing-Statements/SKIP
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;iscrt.def;../../../Appendices/Copybooks/iscrt.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;iscrt.def;../../../Appendices/Copybooks/iscrt.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;PICTURE clause;../../Data-Division/Data-Description/PICTURE-clause
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;PICTURE clause;../../Data-Division/Data-Description/PICTURE-clause
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;PICTURE clause;../../Data-Division/Data-Description/PICTURE-clause
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;Event handling;../../../User-Interface/Working-With-UI-and-Controls/Creating-a-control/Embedded-Procedures/Event-handling
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;ACCEPT;../../Procedure-Division-Statements/ACCEPT
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;Embedded Procedures;../../Data-Division/Screen-Description/Embedded-Procedures
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;iscrt.def;../../../Appendices/Copybooks/iscrt.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;iscrt.def;../../../Appendices/Copybooks/iscrt.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;isgui.def;../../../Appendices/Copybooks/isgui.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;isgui.def;../../../Appendices/Copybooks/isgui.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;Controls Reference;../../../User-Interface/Controls-Reference/Controls-Reference
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Configuration-Section/Special-names.md;XML PARSE;../../Procedure-Division-Statements/XML-PARSE
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Input-Output-Section/File-Control-Paragraph.md;WRITE;../../Procedure-Division-Statements/WRITE
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Input-Output-Section/File-Control-Paragraph.md;Sort File;./File-Control-Paragraph#sort-file
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Input-Output-Section/File-Control-Paragraph.md;Conceptual Characteristics of a File;../../Data-Division/Logical-Record-Concept/Conceptual-Characteristics-of-a-File
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Environment-Division/Input-Output-Section/File-Names-Interpretation.md;C$CHDIR;../../../Appendices/Library-Routines/C$CHDIR
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Identification-Division/Class-ID-paragraph.md;REPOSITORY Paragraph;../Environment-Division/Configuration-Section/Repository
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Identification-Division/Method-ID-paragraph/Method-ID-paragraph.md;Unnamed methods;../../Object-oriented-Programming/Methods/Unnamed-methods
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Identification-Division/Program-ID-paragraph.md;CANCEL;../Procedure-Division-Statements/CANCEL
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Language-Extensions.md;Library Routines;../Appendices/Library-Routines/Library-Routines
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Language-Extensions.md;Intrinsic Functions;../Appendices/Intrinsic-Functions/Intrinsic-Functions
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Language-Extensions.md;Internal Objects;../Appendices/Internal-Objects/Internal-Objects
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Preface/Definitions.md;Nonnumeric Literal;./Definitions#nonnumeric-literal
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Preface/Definitions.md;Nonnumeric Literal;./Definitions#nonnumeric-literal
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Preface/Source-Formats/Fixed.md;287;../../../Appendices/Compiler-Errors#errors-informationals-and-warnings
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Preface/Source-Formats/Terminal.md;SOURCE-COMPUTER Paragraph;../../Environment-Division/Configuration-Section/Source-computer
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Preface/Source-Formats/Terminal.md;287;../../../Appendices/Compiler-Errors#errors-informationals-and-warnings
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Preface/Source-Formats/Variable.md;SOURCE-COMPUTER Paragraph;../../Environment-Division/Configuration-Section/Source-computer
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Preface/Source-Formats/Variable.md;287;../../../Appendices/Compiler-Errors#errors-informationals-and-warnings
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/ACCEPT.md;iscobol.def;../../Appendices/Copybooks/iscobol.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/ACCEPT.md;iscobol.def;../../Appendices/Copybooks/iscobol.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/CALL.md;SYSTEM;../../Appendices/Library-Routines/SYSTEM
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/CANCEL.md;C$UNLOAD_NATIVE;../../Appendices/Library-Routines/C$UNLOAD_NATIVE
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/DESTROY.md;WBITMAP-DESTROY;../../Appendices/Library-Routines/W$BITMAP/WBITMAP-DESTROY
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/DESTROY.md;WMENU-DESTROY;../../Appendices/Library-Routines/W$MENU/WMENU-DESTROY
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/INQUIRE.md;Graphical Control List;../../Appendices/Graphical-Control-List
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/INQUIRE.md;iscontrols.def;../../Appendices/Copybooks/iscontrols.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/INQUIRE.md;iscontrols.def;../../Appendices/Copybooks/iscontrols.def
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/STRING.md;288;../../Appendices/Compiler-Errors#errors-informationals-and-warnings
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division/Execution/Normal-run-unit-termination.md;M$ALLOC;../../../Appendices/Library-Routines/M$ALLOC
+link vuoto/errato;pages/is-cobol-evolve/Language-Reference/Procedure-Division/Execution/Normal-run-unit-termination.md;M$FREE;../../../Appendices/Library-Routines/M$FREE
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Advanced-Features/isCOBOL-Code-Coverage/Using-isCOBOL-Code-Coverage-in-application-server-environments.md;CCOV-FLUSH;../../../Appendices/Library-Routines/C$COVERAGE/CCOV-FLUSH
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Advanced-Features/isCOBOL-Code-Coverage/Using-isCOBOL-Code-Coverage-in-application-server-environments.md;C$COVERAGE;../../../Appendices/Library-Routines/C$COVERAGE/C$COVERAGE
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Advanced-Features/isCOBOL-Code-Coverage/Using-isCOBOL-Code-Coverage-in-application-server-environments.md;C$COVERAGE;../../../Appendices/Library-Routines/C$COVERAGE/C$COVERAGE
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Advanced-Features/isCOBOL-Code-Coverage/Using-isCOBOL-Code-Coverage-in-application-server-environments.md;CCOV-SET;../../../Appendices/Library-Routines/C$COVERAGE/CCOV-SET
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Advanced-Features/isCOBOL-Code-Coverage/Using-isCOBOL-Code-Coverage-in-application-server-environments.md;CCOV-FLUSH;../../../Appendices/Library-Routines/C$COVERAGE/CCOV-FLUSH
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/DOC-Directive.md;PROGRAM-ID Paragraph;../../../../Language-Reference/Identification-Division/Program-ID-paragraph
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/DOC-Directive.md;CLASS-ID Paragraph;../../../../Language-Reference/Identification-Division/Class-ID-paragraph
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/DOC-Directive.md;METHOD-ID Paragraph;../../../../Language-Reference/Identification-Division/Method-ID-paragraph/Method-ID-paragraph
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/EFD-Directives.md;EFD Directives;./EFD-Directives
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/ELK-Directives.md;ELK Directives;./ELK-Directives
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/EVALUATE-Directive.md;iscobol.compiler.const.ConstantName;../../Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/EVALUATE-Directive.md;DEFINE Directive;./DEFINE-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/EVALUATE-Directive.md;Level-Number;../../../../Language-Reference/Data-Division/Data-Description/Level-Number
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/IF-Directive.md;iscoboliscobol.compiler.const.ConstantName;../../Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/IF-Directive.md;DEFINE Directive;./DEFINE-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/IF-Directive.md;Level-Number;../../../../Language-Reference/Data-Division/Data-Description/Level-Number
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/IMP-MARGIN-R-IS-AFTER-END-OF-RECORD-Directive.md;Fixed;../../../../Language-Reference/Preface/Source-Formats/Fixed
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/IMP-MARGIN-R-IS-AFTER-END-OF-RECORD-Directive.md;-sl;../Compiler-Options#source-options
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/IMP-OPTION-Directive.md;Compiler Options;../Compiler-Options
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/IMP-OPTION-Directive.md;-info;../../Runtime-Framework/Runtime-Options#info
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/SET-Directive.md;Compiler Configuration;../../Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/SET-Directive.md;Compiler Configuration;../../Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/SOURCE-Directive.md;Source Formats;../../../../Language-Reference/Preface/Source-Formats/Source-Formats
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/SQL-Directives.md;SQL Directives;./SQL-Directives
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Properties.md;Compiler Configuration;../Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Properties.md;Configuration;../Configuration/Configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;DatabaseBridge generator (edbiis);../../../../is-cobol-db-bridge/DatabaseBridge-generator-edbiis
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;DCI;../../Files-Management/Indexed-Files/DCI
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;GIFE (Index and Relative File Editor);../../Utilities/GIFE
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;FILE Directive;../../../Language-Reference/EFD-Directives/FILE-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;NAME Directive;../../../Language-Reference/EFD-Directives/NAME-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;NAME Directive;../../../Language-Reference/EFD-Directives/NAME-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;USE GROUP Directive;../../../Language-Reference/EFD-Directives/USE-GROUP-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;WHEN Directive;../../../Language-Reference/EFD-Directives/WHEN-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;WHEN Directive;../../../Language-Reference/EFD-Directives/WHEN-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;HIDDEN Directive;../../../Language-Reference/EFD-Directives/HIDDEN-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/External-File-Description-Dictionaries.md;efdParser Class (com.iscobol.lib.efdParser);../../../Appendices/Internal-Objects/efdParser-Class/efdParser-Class
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Incremental-Compiler.md;\-incr=op;./Compiler-Options#incr
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Incremental-Compiler.md;\-verbose;./Compiler-Options#miscellaneous-options
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Preprocessor-programs.md;iscobol.compiler.custompreproc \*;../../Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Preprocessor-programs.md;iscobol.compiler.oop.trim\_parameters;../../Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Preprocessor-programs.md;iscobol.compiler.easydb (boolean);../../Configuration/Configuration-Properties#compiler_easydb
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Preprocessor-programs.md;iscobol.compiler.servicebridge (boolean);../../Configuration/Configuration-Properties#compiler_servicebridge
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Preprocessor-programs.md;iscobol.compiler.debug.replaced_source (boolean);../../Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Preprocessor-programs.md;-lf;../Compiler-Options#listing-options
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Preprocessor-programs.md;-d;../Compiler-Options#d
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Preprocessor-programs.md;-dx;../Compiler-Options#dx
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Source-code-preprocessing-via-regular-expressions.md;iscobol.compiler.regexp \*;../../Configuration/Configuration-Properties#compiler_regexp
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Source-code-preprocessing-via-regular-expressions.md;iscobol.compiler.regexp \*;../../Configuration/Configuration-Properties#compiler_regexp
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Source-code-preprocessing-via-regular-expressions.md;iscobol.compiler.regexp \*;../../Configuration/Configuration-Properties#compiler_regexp
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Source-code-preprocessing-via-regular-expressions.md;Listing Options;../Compiler-Options#listing-options
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Source-code-preprocessing/Source-code-preprocessing-via-regular-expressions.md;iscobol.compiler.debug.replaced\_source (boolean);../../Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration.md;C$GETENV;../../../Appendices/Library-Routines/C$GETENV
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration.md;C$SETENV;../../../Appendices/Library-Routines/C$SETENV
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Runtime-Framework/Overview.md;iscobol.code_prefix;../Configuration/Configuration-Properties#code_prefix
+immagine (maiuscole);pages/is-cobol-evolve/SDK-Users-Guide/Debugger/Debugger-Functions/Popup-menu.md;img;../../../images/QW.png
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Debugger/Remote-Debugging.md;Usage of isCOBOL Client;../../../is-cobol-AS/Usage-of-isCOBOL-Client/Usage-of-isCOBOL-Client
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Files-Management/Indexed-Files/DCI.md;9D;../../../Appendices/File-Status-Codes#9D
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;WINPRINT-SET-PRINTER-AS;../../Appendices/Library-Routines/WIN$PRINTER/WINPRINT-SET-PRINTER-AS
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;A$CURRENT_USER;../../Appendices/Library-Routines/A$CURRENT_USER
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;C$DESKTOP;../../Appendices/Library-Routines/C$DESKTOP/C$DESKTOP
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;C$EASYOPEN;../../Appendices/Library-Routines/C$EASYOPEN
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;OPENSAVE-OPEN-BOX;../../Appendices/Library-Routines/C$OPENSAVEBOX/OPENSAVE-OPEN-BOX
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;C$COPY;../../Appendices/Library-Routines/C$COPY
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;C$PARAMSIZE;../../Appendices/Library-Routines/C$PARAMSIZE
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;C$COPY;../../Appendices/Library-Routines/C$COPY
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;C$OPENSAVEBOX;../../Appendices/Library-Routines/C$OPENSAVEBOX/C$OPENSAVEBOX
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;Library Routines;../../Appendices/Library-Routines/Library-Routines
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;callStaticMethod;../../Appendices/Internal-Objects/CobolGUIJavaBean-Class/callStaticMethod
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;Measuring the load of your COBOL application;../../Appendices/Troubleshooting/Tuning-and-monitoring-the-Java-Virtual-Machine-with-VisualVM/Tuning-your-COBOL-application-with-VisualVM#measuring-the-load-of-your-cobol-application
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;C$GETRUNENV;../../Appendices/Library-Routines/C$GETRUNENV
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/Moving-from-Fat-client-to-Thin-Client.md;iscobol.def;../../Appendices/Copybooks/iscobol.def
+immagine (maiuscole);pages/is-cobol-evolve/SDK-Users-Guide/RemoteCompiler/Getting-Started/Download-Install-SDK.md;img;../../../images/winsetup-jdk.png
+immagine (maiuscole);pages/is-cobol-evolve/SDK-Users-Guide/Utilities/CPK.md;img;../../images/CPK.png
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/GIFE.md;WHEN Directive;../../Language-Reference/EFD-Directives/WHEN-Directive
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISMIGRATE.md;The c-tree File Connector;../Files-Management/Indexed-Files/File-Connectors/c-tree-File-Connector
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISMIGRATE.md;The Micro Focus File Connector;../Files-Management/Indexed-Files/File-Connectors/Micro-Focus-File-Connector
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISMIGRATE.md;The Vision File Connector;../Files-Management/Indexed-Files/File-Connectors/Vision-File-Connector
+immagine (maiuscole);pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISMIGRATE.md;img;../../images/ismigrategui.png
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISSORT.md;C$SORT;../../Appendices/Library-Routines/C$SORT
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISUPDATER/Overview.md;Automatic Client update;../../../../is-cobol-AS/Automatic-Client-update
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISUPDATER/Setup-of-an-Update-Server.md;Automatic Client update;../../../../is-cobol-AS/Automatic-Client-update
+immagine (maiuscole);pages/is-cobol-evolve/SDK-Users-Guide/Utilities/JDBC2FD.md;img;../../images/JDBC2FD.png
+link vuoto/errato;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/XML2WRK.md;XMLStream Class (com.iscobol.rts.XMLStream);../../Appendices/Internal-Objects/XMLStream-Class/XMLStream-Class
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Code-Editing/editor-tool-bar.md;Veryant > Main: Program;../configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Code-Editing/editor-tool-bar.md;Veryant > Main: Program;../configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Debugging/debug-configurations-and-remote-debugging.md;Veryant > Main: Program.;../configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Debugging/debug-configurations-and-remote-debugging.md;iscobol.rundebug.redirect_streams (boolean) \*;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#general-runtime-configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Debugging/debugging.md;Veryant > Debug > Compiler: Options;../configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Debugging/debugging.md;Debug and Release modes;../compiling#debug-and-release-modes
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Debugging/debugging.md;Veryant > Main: Program;../configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Debugging/debugging.md;Veryant > Runtime: Options;../configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Debugging/debugging.md;Veryant > Runtime: Options;../configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/Getting-Started/download-isCOBOL-Evolve.md;Download and install isCOBOL Evolve SDK;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Getting-Started/Download-and-install-isCOBOL-Evolve-SDK
+link vuoto/errato;pages/is-cobol-extension-for-VScode/compiling.md;Editor tool-bar;./Code-Editing/editor-tool-bar
+link vuoto/errato;pages/is-cobol-extension-for-VScode/compiling.md;\-d;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#d
+link vuoto/errato;pages/is-cobol-extension-for-VScode/compiling.md;\-lf;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#listing-options
+link vuoto/errato;pages/is-cobol-extension-for-VScode/compiling.md;\-ostrip;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ostrip
+link vuoto/errato;pages/is-cobol-extension-for-VScode/compiling.md;Veryant > Compiler: Options;./configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/compiling.md;Veryant > Debug > Compiler: Options;./configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/compiling.md;Veryant > Compiler: Options;./configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/compiling.md;Veryant > Release > Compiler: Options;./configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/configuration.md;Debug and Release modes;./compiling#debug-and-release-modes
+link vuoto/errato;pages/is-cobol-extension-for-VScode/configuration.md;Debug and Release modes;./compiling#debug-and-release-modes
+immagine (maiuscole);pages/is-cobol-extension-for-VScode/configuration.md;img;./images/vs-settings-level.png
+link vuoto/errato;pages/is-cobol-extension-for-VScode/running.md;Veryant > Main: Program;./configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/running.md;Editor tool-bar;./Code-Editing/editor-tool-bar
+link vuoto/errato;pages/is-cobol-extension-for-VScode/running.md;Veryant > Runtime: Options;./configuration
+link vuoto/errato;pages/is-cobol-extension-for-VScode/running.md;Veryant > Runtime: Options;./configuration
+link vuoto/errato;pages/is-cobol-web-client/Applications-Monitoring-and-Configuration/Applications/Change-the-application-configuration/Change-the-application-configuration.md;C$DESKTOP;../../../../is-cobol-evolve/Appendices/Library-Routines/C$DESKTOP/C$DESKTOP
+link vuoto/errato;pages/is-cobol-web-client/Applications-Monitoring-and-Configuration/Applications/Change-the-application-configuration/Change-the-application-configuration.md;C$EASYOPEN;../../../../is-cobol-evolve/Appendices/Library-Routines/C$EASYOPEN
+link vuoto/errato;pages/is-cobol-web-client/Applications-Monitoring-and-Configuration/Applications/Change-the-application-configuration/File-viewers.md;CDESKTOP-OPEN;../../../../is-cobol-evolve/Appendices/Library-Routines/C$DESKTOP/CDESKTOP-OPEN
+link vuoto/errato;pages/is-cobol-web-client/Applications-Monitoring-and-Configuration/Applications/Change-the-application-configuration/File-viewers.md;CDESKTOP-EDIT;../../../../is-cobol-evolve/Appendices/Library-Routines/C$DESKTOP/CDESKTOP-EDIT
+link vuoto/errato;pages/is-cobol-web-client/Applications-Monitoring-and-Configuration/Applications/Change-the-application-configuration/File-viewers.md;CDESKTOP-PRINT;../../../../is-cobol-evolve/Appendices/Library-Routines/C$DESKTOP/CDESKTOP-PRINT
+link vuoto/errato;pages/is-cobol-web-client/Embedding-the-COBOL-application-in-an-HTML-page/Communicating-between-the-browser-and-the-COBOL-application.md;IWC$GET;../../is-cobol-evolve/Appendices/Library-Routines/IWC$GET
+link vuoto/errato;pages/is-cobol-web-client/Embedding-the-COBOL-application-in-an-HTML-page/Communicating-between-the-browser-and-the-COBOL-application.md;IWC$GET;../../is-cobol-evolve/Appendices/Library-Routines/IWC$GET
+immagine (maiuscole);pages/release-overview/release-overview-2021-R1/isCOBOL-IDE-enhancements.md;img;../images/CompilerMode.png
+immagine (maiuscole);pages/release-overview/release-overview-2021-R1/isCOBOL-Server.md;img;../images/panel21r1.png
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/compiler-options.md;IF Directive*;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/IF-Directive
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/compiler-options.md;IF Directive;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/IF-Directive
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/compiler-options.md;Compiler options;../Transitioning-from-MicroFocus/compiler-options
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;ISCONFIG;../../is-cobol-evolve/SDK-Users-Guide/Utilities/ISCONFIG
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;Configuration files;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration#configuration-files
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;-c;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Runtime-Framework/Runtime-Options#c
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;ISCONFIG;../../is-cobol-evolve/SDK-Users-Guide/Utilities/ISCONFIG
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;-sddp;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#source-options
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;iscobol.colormap.high *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;iscobol.colormap.low *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;iscobol.colormap.default *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;-ssnl;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#source-options
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;-ssnu;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#source-options
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;-crlk;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#compatibility-options
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;iscobol.checkdiv *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#checkdiv
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;iscobol.gui.window_title;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;iscobol.gui.icon_file;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#gui_iconfile
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/config-variables.md;iscobol.switches *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#general-runtime-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/data-access.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/data-access.md;ISMIGRATE (Index File Migration);../../is-cobol-evolve/SDK-Users-Guide/Utilities/ISMIGRATE
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/data-access.md;isCOBOL Evolve: c-tree RTG;../../c-treeRTG-for-iscobol/Key-Topics
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/data-access.md;iscobol.file.status*;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#file_status
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/data-access.md;iscobol.file.errors_ok;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#file_errors_ok
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/data-access.md;isCOBOL File Server;../../is-cobol-AS/isCOBOL-File-Server/isCOBOL-File-Server
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/integrated-development-environments.md;Importing programs from AcuBench;../../is-cobol-IDE/Importing-programs-from-AcuBench/Importing-programs-from-AcuBench
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/integrated-development-environments.md;Importing programs from Totem;../../is-cobol-IDE/Importing-programs-from-Totem/Importing-programs-from-Totem
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/library-routines.md;C$PARSEEFD;../../is-cobol-evolve/Appendices/Library-Routines/C$PARSEEFD/C$PARSEEFD
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/library-routines.md;CSOCKET-LAST-ERROR;../../is-cobol-evolve/Appendices/Library-Routines/C$SOCKET/CSOCKET-LAST-ERROR
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/library-routines.md;WD2$CLIENT_INFO.;../../is-cobol-evolve/Appendices/Library-Routines/WD2$CLIENT_INFO/WD2$CLIENT_INFO
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/syntax-behavior.md;SYNCHRONIZED;../../is-cobol-evolve/Language-Reference/Procedure-Division-Statements/SYNCHRONIZED
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/syntax-behavior.md;\-wlu;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#warning-options
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/syntax-behavior.md;isCOBOL Reserved Words;../../is-cobol-evolve/Appendices/isCOBOL-Reserved-Words
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/syntax-behavior.md;iscobol.gui.nested_embedded_proc_check (boolean)*;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#gui_nested_embedded_proc_check
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/user-interface.md;HANDLE-TYPE;../../is-cobol-evolve/Appendices/Intrinsic-Functions/HANDLE-TYPE
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/user-interface.md;iscobol.gui.screen_col_plus_base;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/user-interface.md;iscobol.gui.click_override_focus_change (boolean);../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/user-interface.md;Cursor;../../is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Cursor
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/user-interface.md;iscobol.gui.ntf_resized_delay;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/user-interface.md;iscobol.gui.cstimeout*;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#gui_cstimeout
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/web.md;Conversion of the ACUCOBOL-GT Oscars sample;../../is-cobol-EIS/COBOL-Servlet-option-OOP/COBOL-Servlet-Programming-to-replace-CGI-COBOL-programming#conversion-of-the-acucobol-gt-oscars-sample
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ACUCOBOL-GT/web.md;isCOBOL Evolve: WebClient;../../is-cobol-web-client/Key-Topics
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-COBOL-IT/data-access.md;ctutil;../../c-treeRTG-for-iscobol/c-tree-Utilities/Command-line-utilities/ctutil/ctutil
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-COBOL-IT/data-access.md;JUTIL;../../is-cobol-evolve/SDK-Users-Guide/Utilities/JUTIL/JUTIL
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-IBM-COBOL/IBM-WebSphere-MQ.md;iscobol.shared_library_list *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#general-runtime-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-IBM-COBOL/compiler-options.md;USAGE clause;../../is-cobol-evolve/Language-Reference/Data-Division/Data-Description/USAGE-clause
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-IBM-COBOL/compiler-options.md;USAGE clause;../../is-cobol-evolve/Language-Reference/Data-Division/Data-Description/USAGE-clause
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-IBM-COBOL/data-access.md;ctutil;../../c-treeRTG-for-iscobol/c-tree-Utilities/Command-line-utilities/ctutil/ctutil
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-IBM-COBOL/data-access.md;JUTIL;../../is-cobol-evolve/SDK-Users-Guide/Utilities/JUTIL/JUTIL
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ICOBOL/data-access.md;ctutil;../../c-treeRTG-for-iscobol/c-tree-Utilities/Command-line-utilities/ctutil/ctutil
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ICOBOL/data-access.md;JUTIL;../../is-cobol-evolve/SDK-Users-Guide/Utilities/JUTIL/JUTIL
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MBP-COBOL/data-access.md;ctutil;../../c-treeRTG-for-iscobol/c-tree-Utilities/Command-line-utilities/ctutil/ctutil
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MBP-COBOL/data-access.md;JUTIL;../../is-cobol-evolve/SDK-Users-Guide/Utilities/JUTIL/JUTIL
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/CGI.md;Conversion of the Micro Focus;../../is-cobol-EIS/COBOL-Servlet-option-OOP/COBOL-Servlet-Programming-to-replace-CGI-COBOL-programming#conversion-of-the-micro-focus-sample
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/compiler-options.md;CurrentDate Class (com.iscobol.rts.CurrentDate);../../is-cobol-evolve/Appendices/Internal-Objects/CurrentDate-Class
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/config.md;iscobol.substring.zero_len_all (boolean) *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#general-runtime-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/config.md;iscobol.file.index.check_all_keys (boolean);../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#file_index_check_all_keys
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/config.md;iscobol.memory.alpha_edited (boolean);../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#general-runtime-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/config.md;iscobol.terminal.autowrap (boolean);../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#character-based-interface
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/config.md;iscobol.compiler.oop.trim_parameters;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/config.md;iscobol.file.errors_ok;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#file_errors_ok
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/config.md;-cfp36;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#compatibility-options
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/config.md;CurrentDate Class (com.iscobol.rts.CurrentDate);../../is-cobol-evolve/Appendices/Internal-Objects/CurrentDate-Class
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/data-access.md;ISMIGRATE (Index File Migration);../../is-cobol-evolve/SDK-Users-Guide/Utilities/ISMIGRATE
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/data-access.md;EDBI Generation with EDBIIS (two steps);../../is-cobol-db-bridge/Working-with-DatabaseBridge/Generating-EDBI-users-routines/EDBI-Generation-with-EDBIIS
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/data-access.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/data-access.md;EDBI Generation at compile time (one step);../../is-cobol-db-bridge/Working-with-DatabaseBridge/Generating-EDBI-users-routines/EDBI-Generation-at-compile-time
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/data-access.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-MicroFocus/data-access.md;-ca;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#ca
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-Microsoft-COBOL/data-access.md;ctutil;../../c-treeRTG-for-iscobol/c-tree-Utilities/Command-line-utilities/ctutil/ctutil
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-Microsoft-COBOL/data-access.md;JUTIL;../../is-cobol-evolve/SDK-Users-Guide/Utilities/JUTIL/JUTIL
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-NCR-COBOL/data-access.md;ctutil;../../c-treeRTG-for-iscobol/c-tree-Utilities/Command-line-utilities/ctutil/ctutil
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-NCR-COBOL/data-access.md;JUTIL;../../is-cobol-evolve/SDK-Users-Guide/Utilities/JUTIL/JUTIL
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ProCOBOL/issues.md;\-cp;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#cp
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ProCOBOL/issues.md;\-dz;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#dz
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ProCOBOL/issues.md;\-csqn;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#csqn
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ProCOBOL/issues.md;iscobol.esql.value_sqlcode_on_no_data;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#esql_value_sqlcode_on_no_data
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ProCOBOL/issues.md;iscobol.compiler.esql.procedure.ProcedureName;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler_esql_procedure_ProcedureName
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ProCOBOL/issues.md;HOSTVAR Directive;../../is-cobol-evolve/Language-Reference/SQL-Directives/HOSTVAR-Directive
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-ProCOBOL/using.md;-cp;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#cp
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-RM-COBOL/Cobol-WOW/editing-compiling-running.md;Debugger;../../../is-cobol-evolve/SDK-Users-Guide/Debugger/Overview
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-RM-COBOL/data-access.md;ISMIGRATE (Index File Migration);../../is-cobol-evolve/SDK-Users-Guide/Utilities/ISMIGRATE
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-RM-COBOL/runtime-config.md;iscobol.file.index.check_all_keys (boolean);../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#file_index_check_all_keys
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-RM-COBOL/runtime-config.md;iscobol.gui.screen_col_zero (boolean);../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-RM-COBOL/runtime-config.md;iscobol.memory.alpha_edited (boolean);../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#general-runtime-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-RM-COBOL/runtime-config.md;iscobol.terminal.autowrap (boolean);../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#character-based-interface
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-Realia-COBOL/data-access.md;ctutil;../../c-treeRTG-for-iscobol/c-tree-Utilities/Command-line-utilities/ctutil/ctutil
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-Realia-COBOL/data-access.md;JUTIL;../../is-cobol-evolve/SDK-Users-Guide/Utilities/JUTIL/JUTIL
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-VAX-COBOL/data-access.md;ctutil;../../c-treeRTG-for-iscobol/c-tree-Utilities/Command-line-utilities/ctutil/ctutil
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-VAX-COBOL/data-access.md;JUTIL;../../is-cobol-evolve/SDK-Users-Guide/Utilities/JUTIL/JUTIL
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/issues.md;SET;../../is-cobol-evolve/Language-Reference/Procedure-Division-Statements/SET
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/issues.md;iscobol.jdbc.dateformat *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/issues.md;iscobol.jdbc.timeformat *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/issues.md;iscobol.jdbc.timestampformat *;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/issues.md;-csqn;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#csqn
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/issues.md;iscobol.esql.value_sqlcode_on_no_data;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#esql_value_sqlcode_on_no_data
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/issues.md;iscobol.jdbc.options;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/issues.md;SQLJ usage example for IBM DB2;../../is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/SQLJ#sqlj-usage-example-for-ibm-db2
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/using.md;-cp;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#cp
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/why-replace.md;iscobol.jdbc.driver;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_driver
+link vuoto/errato;pages/transitioning-to-is-cobol/Transitioning-from-the-IBM-DB2-Preprocessor/why-replace.md;iscobol.jdbc.url;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_url
+link vuoto/errato;pages/transitioning-to-is-cobol/transitioning-from-other-COBOLs.md;ctutil;../c-treeRTG-for-iscobol/c-tree-Utilities/Command-line-utilities/ctutil/ctutil
+link vuoto/errato;pages/transitioning-to-is-cobol/transitioning-from-other-COBOLs.md;USAGE clause;../is-cobol-evolve/Language-Reference/Data-Division/Data-Description/USAGE-clause
+ancora errata;pages/c-treeRTG-for-iscobol/Configuring-the-client/Configuring-the-client-through-CTREE_CONF/transaction.md;DELAYED_DURABILITY;../../Configuring-the-c-tree-Server#delayed_durabilty
+ancora errata;pages/c-treeRTG-for-iscobol/Configuring-the-client/Configuring-the-client-through-Framework-properties.md;iscobol.file.index.inpool;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties
+ancora errata;pages/c-treeRTG-for-iscobol/Configuring-the-client/Configuring-the-client.md;iscobol.file.index.inpool;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties
+ancora errata;pages/is-cobol-AS/Automatic-Client-update.md;Client Configuration (isupdater.properties);../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#client-configuration-isupdater-properties
+ancora errata;pages/is-cobol-EIS/Appendices/HTTPClient-class/doPatchEx.md;iscobol.rest.default_stream;../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#rest_default_stream
+ancora errata;pages/is-cobol-EIS/Appendices/HTTPHandler-class/acceptEx.md;iscobol.rest.default_stream;../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#rest_default_stream
+ancora errata;pages/is-cobol-EIS/Appendices/HTTPHandler-class/processHtmlString.md;iscobol.http.value_prefix_colon (boolean);../../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#http_value_prefix_colon
+ancora errata;pages/is-cobol-EIS/Debug-and-Troubleshooting/Common-issues-in-EIS-environment.md;-whttp;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#whttp
+ancora errata;pages/is-cobol-IDE/Working-With-Projects/Running-with-DatabaseBridge.md;iscobol.jdbc.driver;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_driver
+ancora errata;pages/is-cobol-IDE/Working-With-Projects/Running-with-DatabaseBridge.md;iscobol.jdbc.url;../../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_url
+ancora errata;pages/is-cobol-db-bridge/DatabaseBridge-generator-edbiis.md;iscobol.easydb.commit_count.ConnectionName;../is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#easydb_commit_count_connectionname
+ancora errata;pages/is-cobol-evolve/Appendices/Performance-Tuning/Guidelines-for-better-runtime-performance/Compile-time-optimizations.md;-big;../../../SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Options#big
+ancora errata;pages/is-cobol-evolve/Appendices/Performance-Tuning/Guidelines-for-better-runtime-performance/Data-Access/DatabaseBridge.md;iscobol.compiler.easydb.light_cursors;../../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties##compiler_easydb_light_cursors
+ancora errata;pages/is-cobol-evolve/Appendices/Performance-Tuning/Guidelines-for-better-runtime-performance/Data-Access/c-tree-RTG.md;DELAYED_DURABILITY;../../../../../c-treeRTG-for-iscobol/Configuring-the-c-tree-Server#delayed_durabilty
+ancora errata;pages/is-cobol-evolve/Appendices/Performance-Tuning/Guidelines-for-better-runtime-performance/Data-Access/c-tree-RTG.md;DELAYED_DURABILITY;../../../../../c-treeRTG-for-iscobol/Configuring-the-c-tree-Server#delayed_durabilty
+ancora errata;pages/is-cobol-evolve/Appendices/Runtime-Errors.md;isCOBOL C/S version numbers;./Version-numbers#iscobol-c-s-version-numbers
+ancora errata;pages/is-cobol-evolve/Appendices/Troubleshooting/Licensing-and-Configuration-issues.md;iscobol.tracelevel;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#tracelevel
+ancora errata;pages/is-cobol-evolve/Appendices/Troubleshooting/Runtime-Issues.md;Alt+Pause keyboard combination;./Runtime-Issues#alt-pause-keyboard-combination
+ancora errata;pages/is-cobol-evolve/Language-Reference/Data-Division/Data-Description/VALUE-clause.md;Numeric Literal;../../Preface/Definitions#numeric-literal
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/Host-variables/Mapping-a-VARCHAR-field-to-a-COBOL-group-data-item.md;iscobol.jdbc.kept_spaces;../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/Host-variables/Mapping-a-VARCHAR-field-to-a-COBOL-group-data-item.md;iscobol.jdbc.kept_spaces;../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/Indicator-Variables.md;iscobol.esql.indicator_trunc_on_call (boolean);../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/SQLCA.md;iscobol.esql.value_sqlcode_on_no_data;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#esql_value_sqlcode_on_no_data
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/SQLCA.md;iscobol.esql.sqlca_handler \*;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-ESQL/SQLJ.md;iscobol.compiler.sqlj.options \*;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler-configuration
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/COMMIT.md;iscobol.jdbc.autocommit (boolean);../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_autocommit
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/COMMIT.md;iscobol.jdbc.autocommit (boolean);../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_autocommit
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/CONNECT.md;iscobol.jdbc.url;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_url
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/CONNECT.md;iscobol.jdbc.url;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_url
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/CONNECT.md;iscobol.jdbc.driver;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_driver
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/CONNECT.md;iscobol.jdbc.url;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_url
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/CONNECT.md;iscobol.jdbc.datasource;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_datasource
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/DECLARE.md;iscobol.jdbc.cursor.type \*;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/EXECUTE.md;iscobol.compiler.esql.procedure.ProcedureName;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler_esql_procedure_ProcedureName
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/EXECUTE.md;iscobol.esql.default_param_type;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/FETCH.md;iscobol.jdbc.cursor.type \*;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/ROLLBACK.md;iscobol.jdbc.autocommit (boolean);../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_autocommit
+ancora errata;pages/is-cobol-evolve/Language-Reference/Embedded-SQL-Statements/ROLLBACK.md;iscobol.jdbc.autocommit (boolean);../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_autocommit
+ancora errata;pages/is-cobol-evolve/Language-Reference/Environment-Division/Input-Output-Section/File-Names.md;iscobol.file.env_naming (boolean);../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#file_env_naming
+ancora errata;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/DISPLAY.md;iscobol.gui.messagebox.font;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+ancora errata;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/DISPLAY.md;iscobol.gui.messagebox.bcolor;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+ancora errata;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/DISPLAY.md;iscobol.gui.messagebox.fcolor;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+ancora errata;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/DISPLAY.md;iscobol.gui.messagebox.centered (boolean);../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+ancora errata;pages/is-cobol-evolve/Language-Reference/Procedure-Division-Statements/DISPLAY.md;iscobol.gui.messagebox.native_style (boolean);../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+ancora errata;pages/is-cobol-evolve/Language-Reference/SQL-Directives/HOSTVAR-Directive.md;iscobol.compiler.esql.array.TypeName;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler_esql_array_TypeName
+ancora errata;pages/is-cobol-evolve/Language-Reference/SQL-Directives/HOSTVAR-Directive.md;iscobol.compiler.esql.procedure.ProcedureName;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#compiler_esql_procedure_ProcedureName
+ancora errata;pages/is-cobol-evolve/Language-Reference/SQL-Directives/HOSTVAR-Directive.md;iscobol.esql.default_param_type;../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#common-jdbc-esql-configuration
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Advanced-Features/isCOBOL-Code-Coverage/Running-an-application-with-isCOBOL-Code-Coverage-from-the-command-line.md;-coverage;../../Compiler-and-Runtime/Runtime-Framework/Runtime-Options#coverage
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Advanced-Features/isCOBOL-Unit-Test/Running-an-Unit-Test-from-the-command-line.md;-iut;../../Compiler-and-Runtime/Runtime-Framework/Runtime-Options#iut
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Compiler/Compiler-Directives/SOURCE-Directive.md;-sv;../Compiler-Options#st
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;iscobol.compiler.easydb.light_cursors;./Configuration-Properties##compiler_easydb_light_cursors
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;iscobol.compiler.easydb.light_cursors;./Configuration-Properties##compiler_easydb_light_cursors
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;-c;../../Compiler-and-Runtime/Runtime-Framework/Runtime-Options#c
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;-conly;../../Compiler-and-Runtime/Runtime-Framework/Runtime-Options#conly
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;Alt+Pause keyboard combination;../../../Appendices/Troubleshooting/Runtime-Issues#alt-pause-keyboard-combination
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;Exclude-Event-List;../../../Appendices/Graphical-Control-List#exlude_event_list
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;--flatlaf FlatDarkLaf;../../../SDK-Users-Guide/Compiler-and-Runtime/Runtime-Framework/Runtime-Options
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;-coverage;../Runtime-Framework/Runtime-Options#coverage
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;-iut;../Runtime-Framework/Runtime-Options#iut
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties.md;-profile;../Runtime-Framework/Runtime-Options#profile
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Compiler-and-Runtime/Runtime-Framework/Runtime-Options.md;Client Configuration (isupdater.properties);../Configuration/Configuration-Properties#client-configuration-isupdater-properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/JDBC/Common-JDBC-connection-errors.md;iscobol.jdbc.url;../../Compiler-and-Runtime/Configuration/Configuration-Properties#jdbc_url
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/JDBC/IBM-DB2.md;DatabaseBridge and JDBC/ESQL Configuration;../../Compiler-and-Runtime/Configuration/Configuration-Properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/JDBC/Informix.md;DatabaseBridge and JDBC/ESQL Configuration;../../Compiler-and-Runtime/Configuration/Configuration-Properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/JDBC/Microsoft-SQL-Server.md;DatabaseBridge and JDBC/ESQL Configuration;../../Compiler-and-Runtime/Configuration/Configuration-Properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/JDBC/MySQL-and-MariaDB.md;DatabaseBridge and JDBC/ESQL Configuration;../../Compiler-and-Runtime/Configuration/Configuration-Properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/JDBC/Oracle.md;DatabaseBridge and JDBC/ESQL Configuration;../../Compiler-and-Runtime/Configuration/Configuration-Properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Programming-Guides/JDBC/PostgreSQL.md;DatabaseBridge and JDBC/ESQL Configuration;../../Compiler-and-Runtime/Configuration/Configuration-Properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISUPDATER/Distribution-of-a-Standalone-Application.md;Client Configuration (isupdater.properties);../../Compiler-and-Runtime/Configuration/Configuration-Properties#client-configuration-isupdater-properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISUPDATER/Distribution-of-the-Thin-Client.md;Client Configuration (isupdater.properties);../../Compiler-and-Runtime/Configuration/Configuration-Properties#client-configuration-isupdater-properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISUPDATER/Overview.md;-update;../../Compiler-and-Runtime/Runtime-Framework/Runtime-Options#update
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISUPDATER/Setup-of-an-Update-Server.md;-update;../../Compiler-and-Runtime/Runtime-Framework/Runtime-Options#update
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISUPDATER/Usage-and-Configuration.md;Client Configuration (isupdater.properties);../../Compiler-and-Runtime/Configuration/Configuration-Properties#client-configuration-isupdater-properties
+ancora errata;pages/is-cobol-evolve/SDK-Users-Guide/Utilities/ISUPDATER/Usage-and-Configuration.md;swupdater.mainclass;../../Compiler-and-Runtime/Configuration/Configuration-Properties#swupdater_mainclass
+ancora errata;pages/is-cobol-evolve/User-Interface/Working-With-UI-and-Controls/Creating-a-control/Layout-managers/LM-ZOOM.md;iscobol.gui.layout_manager.max_font_zoom;../../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+ancora errata;pages/is-cobol-evolve/User-Interface/Working-With-UI-and-Controls/Creating-a-control/Layout-managers/LM-ZOOM.md;iscobol.gui.layout_manager.min_font_zoom;../../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+ancora errata;pages/is-cobol-evolve/User-Interface/Working-With-UI-and-Controls/Creating-a-control/Layout-managers/LM-ZOOM.md;iscobol.gui.icons_scaling (boolean);../../../../SDK-Users-Guide/Compiler-and-Runtime/Configuration/Configuration-Properties#graphical-user-interface-gui
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHECK-BOX/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Css-Base-Style-Name
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Css-Style-Name
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Max-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/CHIPS-BOX/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/COMBO-BOX/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/DATE-ENTRY/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/ENTRY-FIELD/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Enabled
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Events/MSG-END-MENU
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Events/MSG-INIT-MENU
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/FRAME/Events/MSG-MENU-INPUT
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/GRID/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/IWC-PANEL/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/JAVA-BEAN/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LABEL/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/LIST-BOX/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/PUSH-BUTTON/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RADIO-BUTTON/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Common-properties
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Custom-Data
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Help-Id
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Layout-data
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Line
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Max-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Max-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Min-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Min-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Size
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/RIBBON/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-BAR/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Help-Id
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SCROLL-PANE/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SLIDER/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Help-Id
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/SPLIT-PANE/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Hint
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Id
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Styles/Height-In-Cells
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Styles/Width-In-Cells
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Events/MSG-END-MENU
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Events/MSG-INIT-MENU
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/STATUS-BAR/Events/MSG-MENU-INPUT
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TAB-CONTROL/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Common-properties
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Enabled
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Event-List
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Exclude-Event-List
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Font
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Layout-data
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Line
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Max-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Max-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Min-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Min-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Size
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Visible
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Styles/Height-In-Cells
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Styles/No-Tab
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Styles/Notify-Mouse
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Styles/Permanent-Temporary
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Styles/Width-In-Cells
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Events/MSG-MOUSE-ENTER
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TOOL-BAR/Events/MSG-MOUSE-EXIT
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/TREE-VIEW/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Background-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Foreground-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Events/MSG-END-MENU
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Events/MSG-INIT-MENU
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Events/MSG-MENU-INPUT
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WEB-BROWSER/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Bitmap-End
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Bitmap-Handle
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Bitmap-Number
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Bitmap-Raw-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Bitmap-Raw-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Bitmap-Scale
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Bitmap-Start
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Bitmap-Timer
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Bitmap-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Colors
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Css-Base-Style-Name
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Css-Style-Name
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Drag-mode
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Event-List
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Exclude-Event-List
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Id
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Layout-data
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Leading-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Max-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Max-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Min-Height
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Min-Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Position-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Shading
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Trailing-Shift
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Transparent-Color
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Properties/Width
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Styles/Height-In-Cells
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Styles/No-Tab
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Styles/Notify-Mouse
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Styles/Width-In-Cells
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Events/MSG-DRAG
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Events/MSG-DROP
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Events/MSG-MOUSE-CLICKED
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Events/MSG-MOUSE-DBLCLICK
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Events/MSG-MOUSE-ENTER
+sidebar: voce rimossa (pagina inesistente);.vitepress/config.mjs;;/pages/is-cobol-evolve/User-Interface/Controls-Reference/WINDOW/Events/MSG-MOUSE-EXIT

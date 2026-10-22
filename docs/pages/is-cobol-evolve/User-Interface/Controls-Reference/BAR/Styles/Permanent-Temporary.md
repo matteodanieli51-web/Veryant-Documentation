@@ -1,0 +1,27 @@
+﻿## \{ Permanent | Temporary \}
+
+|  |  |
+| --- | --- |
+| Permanent | A control with this style applied can be destroyed only by using the DESTROY statement or when the parent window is destroyed. A permanent control is more efficient than a "temporary" one since it is not created each time a DISPLAY statement is executed. This style is set by default. |
+| Temporary | Temporary controls are destroyed when a DESTROY statement is executed, when the parent window is destroyed, when another control is created in its same position, or when a Screen Section containing a BLANK SCREEN keyword is displayed. Temporary controls are less efficient than "permanent" ones since they are created each time a DISPLAY statement is executed. |
+
+**Example -** Define 2 bars on screen section, the first permanent (by default) and the other temporary
+
+```cobol
+screen section.
+...
+  03 screen-1-br-1 Bar
+     line 5.0
+     column 2.0
+     size 9.0 cells
+     id 1
+     .
+
+  03 screen-1-br-2 Bar
+     line 7.0
+     column 2.0
+     size 9.0 cells
+     id 2
+     temporary
+     .
+```

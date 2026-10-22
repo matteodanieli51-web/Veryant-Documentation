@@ -1,0 +1,3 @@
+﻿## Events
+
+The following properties are applicable to the FRAME control: [MSG-MOUSE-CLICKED](./MSG-MOUSE-CLICKED), [MSG-MOUSE-DBLCLICK](./MSG-MOUSE-DBLCLICK), [MSG-MOUSE-ENTER](./MSG-MOUSE-ENTER), [MSG-MOUSE-EXIT](./MSG-MOUSE-EXIT).
